@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+{
+  "library": "bootstrap-markdown-editor@2.0.2",
+  "destination": "wwwroot/lib/bootstrap-markdown-editor/"
+}
+
+]
+}
